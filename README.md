@@ -69,6 +69,7 @@ Deploy Online
 Kaggle for the dataset
 Scikit-learn documentation
 Prodigy InfoTech Internship Program
+
 👨‍💻 Author
 Navya Kemburu
 
